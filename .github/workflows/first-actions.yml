@@ -1,4 +1,4 @@
-name: My First GitHub Actions I am Vishnu
+name: My First GitHub Action
 
 on: [push]
 
